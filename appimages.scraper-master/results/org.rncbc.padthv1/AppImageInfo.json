@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "75cbd9cd755f633d853b83d1936455a63ee88aca629c546cf5b2194ecd768ca2e2a7a3364e9ab11f706f8bc14edc1c5e81f5358d5a9787eb38578d88b5bea114",
+    "size": 13550808,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/padthv1-1540188965.24eb2a6-Build1.1.glibc2.2.5-x86_64.AppImage",
+    "id": "org.rncbc.padthv1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.padthv1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:02:31 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "b91806c4824b3a0f440262aea9c0278eadd5ebd0ca42e6e8bf068a9ac4ee7244c91d204b0e8123aa9239bb161f7ad41138061c5103fcbdf2b3a87e7ea9866313",
+    "size": 61492424,
+    "type": 2,
+    "referring_url": "https://github.com/Gulden/gulden-official/releases/download/v2.0.0.14/Gulden-2.0.0.14-x86_64.AppImage",
+    "id": "Gulden-2.0.0.14",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Gulden-2.0.0.14/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 01:07:50 GMT'"
+  }
+}

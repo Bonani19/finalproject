@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "dae8012925ae6a703314ea0621891f092be8390c72f6025dd01d57925a8c6ac8034891b9e62f35599fcc461f8458dc6512e806607530b0eaf2a33b379a451478",
+    "size": 2591944,
+    "type": 2,
+    "referring_url": "https://github.com/AppImage/zsync2/releases/download/continuous/zsyncmake2-126-7857ff1-x86_64.AppImage",
+    "id": "zsyncmake2-126-7857ff1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/zsyncmake2-126-7857ff1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 04:22:03 GMT'"
+  }
+}

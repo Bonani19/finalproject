@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a9a25a8c6838ba0a5df9b4efd78d2b3498b844990025f41c076b674d0e732d7b884fd07661231ce163408ab15732ad3c1188632977ff766859ca30571c60e07e",
+    "size": 71908467,
+    "type": 2,
+    "referring_url": "https://github.com/akaJes/marlin-config/releases/download/v2.10.7/marlin-conf-2.10.7-x86_64.AppImage",
+    "id": "marlin-conf-2.10.7",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/marlin-conf-2.10.7/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:06:11 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "ARM",
+    "sha512checksum": "fa023cd2bb1bd842db1427a37e927da59db558684ea8d9b1c439c97698ee559056accb2ba582c6eae423082183edbeb6777222df1c78230d7459ba7f9b6dce41",
+    "size": 30261308,
+    "type": 2,
+    "referring_url": "https://github.com/JvanKatwijk/qt-dab/releases/download/qt-dab-2.0/Qt_DAB-ARM.AppImage",
+    "id": "qt-dab.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/qt-dab.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Fri, 03 Aug 2018 00:04:00 GMT'"
+  }
+}

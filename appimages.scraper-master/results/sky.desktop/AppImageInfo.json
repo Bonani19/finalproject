@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "167e4ceb1e6454b8faa2a382a1eacd4dfa058d55b315c8974122badb0f4179c313fad359b48ace4e29a864978b5f79f891db4fd8822497344bed4f4241b30ea4",
+    "size": 25624576,
+    "type": 1,
+    "referring_url": "https://tel.red/linux/sky-2.1.7213-1-x86_64.AppImage",
+    "id": "sky.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sky.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:05:18 GMT'"
+  }
+}

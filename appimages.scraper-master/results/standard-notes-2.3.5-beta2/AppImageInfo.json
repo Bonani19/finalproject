@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "cacac03ee57edc83880f2d16deba3b617529a5cd2bb01a0250c55a3db184608077d9431b1ea96c4ed8adb80bbc41421483f67090cb6a61ba5807555e36a5c0ee",
+    "size": 60669451,
+    "type": 2,
+    "referring_url": "https://github.com/standardnotes/desktop/releases/download/v2.3.5-beta2/standard-notes-2.3.5-beta2-x86_64.AppImage",
+    "id": "standard-notes-2.3.5-beta2",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/standard-notes-2.3.5-beta2/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:31:48 GMT'"
+  }
+}

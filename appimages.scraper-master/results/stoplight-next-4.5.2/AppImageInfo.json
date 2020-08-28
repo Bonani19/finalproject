@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "6ab3f17ed58cea5d32514b0f2fa9e6066d124a6a83a636c52e743956016ca018703a6984603991e10681c2c71427e17e0d4cdc5dcba28cfd008c95dda52b15c3",
+    "size": 62242863,
+    "type": 2,
+    "referring_url": "https://github.com/stoplightio/desktop/releases/download/v4.5.2/stoplight-next-4.5.2-i386.AppImage",
+    "id": "stoplight-next-4.5.2",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/stoplight-next-4.5.2/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:39:51 GMT'"
+  }
+}

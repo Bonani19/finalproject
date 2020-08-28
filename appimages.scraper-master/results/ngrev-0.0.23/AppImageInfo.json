@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "b5fa2b73ff3ef57de0f3bdad5ebaca85ae726b265e11fc94471d5fa143dfcff4d10931fe96aa131da5989f3faf35b48dd13133275e006a937cccf96635bb78ca",
+    "size": 78900861,
+    "type": 2,
+    "referring_url": "https://github.com/mgechev/ngrev/releases/download/0.0.23/ngrev-0.0.23-x86_64.AppImage",
+    "id": "ngrev-0.0.23",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ngrev-0.0.23/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:26:02 GMT'"
+  }
+}

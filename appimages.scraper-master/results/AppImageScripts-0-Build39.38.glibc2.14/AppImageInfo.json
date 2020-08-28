@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a5da35dfaa18d0eb78ff415a92dc780b89a41bfe648dafce713a23fa617e011cee8f61e77140d6d64a384afba1975cfff41e0daf36b26dcd5716a682e568cae2",
+    "size": 28030168,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/AppImageScripts-0-Build39.38.glibc2.14-x86_64.AppImage",
+    "id": "AppImageScripts-0-Build39.38.glibc2.14",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/AppImageScripts-0-Build39.38.glibc2.14/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+  }
+}

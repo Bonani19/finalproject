@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "cf09f3e93cdc0cbec144959f8e7a66b4692052ccd53ca8a2061060638eedb387694d032ee51590f02db3b5f492c726a8e597cbc2fe2da13c0d8ec7be16c970f1",
+    "size": 108885554,
+    "type": 2,
+    "referring_url": "https://github.com/plotly/falcon/releases/download/v3.0.3/falcon-sql-client-3.0.3-x86_64.AppImage",
+    "id": "falcon-sql-client-3.0.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/falcon-sql-client-3.0.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:49:30 GMT'"
+  }
+}

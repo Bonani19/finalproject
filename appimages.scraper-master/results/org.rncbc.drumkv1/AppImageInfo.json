@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "6885ec3db041579660015781ee8a586d5db01b36069cf57a76c887c36cdd9b84b9e052cd9002b1b8c99cf49e5bb50561c8d00a1d0aa85c1673c08eb567ec2653",
+    "size": 13309144,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/drumkv1-latest-x86_64.AppImage",
+    "id": "org.rncbc.drumkv1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.drumkv1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+  }
+}

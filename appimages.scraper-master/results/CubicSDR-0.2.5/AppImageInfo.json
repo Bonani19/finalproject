@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "e0f9eea7feec8470ad167c3e751b477e7845e16d53539bd329709d83f6c572f5c111d398bc13bfea8f65f17407265914a77d02b2e433db7bc474ed6df5cfb79c",
+    "size": 16187392,
+    "type": 1,
+    "referring_url": "https://github.com/cjcliffe/CubicSDR/releases/download/0.2.5/CubicSDR-0.2.5-x86_64.AppImage",
+    "id": "CubicSDR-0.2.5",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/CubicSDR-0.2.5/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:24:53 GMT'"
+  }
+}

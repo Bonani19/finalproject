@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "ca6ff97118b4e13e2270b6417e33db286577d0c465d97b67b2333b771b9f87993aac28e638dd977f7a59ba8cec876e98cd868bf3fc5bd682a89c45e0fc5c824d",
+    "size": 85018105,
+    "type": 2,
+    "referring_url": "https://github.com/Superjo149/auryo/releases/download/v2.1.0/auryo-2.1.0-x86_64.AppImage",
+    "id": "auryo-2.1.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/auryo-2.1.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:58:49 GMT'"
+  }
+}

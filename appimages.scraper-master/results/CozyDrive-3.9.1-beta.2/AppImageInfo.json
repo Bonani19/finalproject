@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "bc61972927a1cba4185c992b6be45a3ab260cf899ce3af50798067f2092ef07159050c453f2bc94fb99d8b614cab2d04a0659954589403bcde8be6730de54dff",
+    "size": 61769846,
+    "type": 2,
+    "referring_url": "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.9.1-beta.2/CozyDrive-3.9.1-beta.2-x86_64.AppImage",
+    "id": "CozyDrive-3.9.1-beta.2",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/CozyDrive-3.9.1-beta.2/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:21:39 GMT'"
+  }
+}

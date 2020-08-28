@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "b10e3d1d1b85f59799d3570917316f38516cf71deb45cf01606ca7d873cccd10d3024aac69515d4686d1690fc2032f7a9699450ad2b537824874241d7c5a652d",
+    "size": 27528952,
+    "type": 2,
+    "referring_url": "https://github.com/radareorg/cutter/releases/download/v1.0-alpha/Cutter-v1.0-alpha-x86_64.AppImage",
+    "id": "cutter.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/cutter.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Tue, 17 Jul 2018 23:49:33 GMT'"
+  }
+}

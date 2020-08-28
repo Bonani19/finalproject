@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "10e1fdb3a4c1c4070565be9ce69555a1c2458d5b7423447044df5b08ead88ac8a786af8905992586a68bacc6bbf3464d895b3cc675f6d43502256ed6afcb55c5",
+    "size": 61668062,
+    "type": 2,
+    "referring_url": "https://github.com/lutzroeder/netron/releases/download/v2.3.0/Netron-2.3.0-x86_64.AppImage",
+    "id": "Netron-2.3.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Netron-2.3.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:25:29 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "5972b667bd4ce6ccc5d7041813cd6603c2a6685a43e2af5767f9781f4c2dda202ff92f8ca7670d82f22570fac04f1e413c7f962651dde97bdcae1b1cfbc9df3f",
+    "size": 12694744,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/synthv1-latest-x86_64.AppImage",
+    "id": "org.rncbc.synthv1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.synthv1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+  }
+}

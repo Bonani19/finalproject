@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a5f584913e768b5bd8dcbc0826f5e14b30fabe763220d62ba773aabbf351f0358ec908a1d02f11572b983dbaa3c900b294fea0ccd2443f59241e9d93927b26a7",
+    "size": 93306130,
+    "type": 2,
+    "referring_url": "https://github.com/eosrio/simpleos/releases/download/v0.5.6/simpleos-0.5.6-x86_64.AppImage",
+    "id": "simpleos.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/simpleos.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:02:11 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "071c26678cc434c8ad2b8c5a68b96edabfb7f5466e0e05f2c1a575237073ed5845206cd1641fc9362b27e4ed86e09413c750bdd4374157fde5f9d23575c70581",
+    "size": 41298136,
+    "type": 2,
+    "referring_url": "https://github.com/lettier/gifcurry/releases/download/5.0.0.0/gifcurry-5.0.0.0-x86_64.AppImage",
+    "id": "com.lettier.gifcurry",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/com.lettier.gifcurry/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:56:03 GMT'"
+  }
+}

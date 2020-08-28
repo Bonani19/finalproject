@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "4850a192d706b5e076ab87f23edd48a4ca1fe40b704295bda45aa67d25ccd8884a6a5bee9747f5aa155d6276e66815374f2aa3052b3eb5dabac5064323545f00",
+    "size": 51027239,
+    "type": 2,
+    "referring_url": "https://github.com/sindresorhus/caprine/releases/download/v2.17.0/caprine-2.17.0-x86_64.AppImage",
+    "id": "caprine-2.17.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/caprine-2.17.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:16:38 GMT'"
+  }
+}

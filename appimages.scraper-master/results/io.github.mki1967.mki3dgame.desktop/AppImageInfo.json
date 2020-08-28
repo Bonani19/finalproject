@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "577c166e2ffc09e7cc35163c9ebd45da3224c0eda70366dc68bd999fae6ffcece81c721ccee21170e41e24937b083ceffa43b66d42c0d70e2314fef8fa4dcd1a",
+    "size": 2292728,
+    "type": 2,
+    "referring_url": "https://github.com/mki1967/mki3dgame/releases/download/v1.15/mki3dgame-x86_64.AppImage",
+    "id": "io.github.mki1967.mki3dgame.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/io.github.mki1967.mki3dgame.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:15:08 GMT'"
+  }
+}

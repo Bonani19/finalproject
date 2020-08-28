@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "f547d0dd1b408cef02cc80cc6a63b6fc604664a1f3b4c5c22b3cb49cec6b33394429880f7900d0fd115cfeed81512c1a27f622e6003563bdf293cc225a4c8765",
+    "size": 70778893,
+    "type": 2,
+    "referring_url": "https://github.com/MyCryptoHQ/MyCrypto/releases/download/1.2.3/linux-i386_1.2.3_MyCrypto.AppImage",
+    "id": "linux-i386_1.2.3_MyC",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/linux-i386_1.2.3_MyC/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:19:22 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "f32779f2b701868971a6de31774643616e824722e1d51e9e38db3b7a445be00f34cfe7a40c55fd3e8e73fdae3f986600246899fbe5657c207163daf56c396a98",
+    "size": 62922642,
+    "type": 2,
+    "referring_url": "https://github.com/standardnotes/desktop/releases/download/v2.3.5/standard-notes-2.3.5-i386.AppImage",
+    "id": "standard-notes-2.3.5",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/standard-notes-2.3.5/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:31:48 GMT'"
+  }
+}

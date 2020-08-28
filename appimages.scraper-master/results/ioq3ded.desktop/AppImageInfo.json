@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "ba5b06b032bc5cf2d5362618bac6a9cbe772e5e1a2b3e327cc217ee84180a677d44f7c7d914edca648b7cb0db40e6131510dcdd20eb489b6b546ef3243aae908",
+    "size": 1873112,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/IOQuake3-Server-0-Build26.15.glibc2.15-x86_64.AppImage",
+    "id": "ioq3ded.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ioq3ded.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+  }
+}

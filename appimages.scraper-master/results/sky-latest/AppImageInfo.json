@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "de9809ecfb94a2e2f312e53dffb05d6c13df5e4288de3d272e60949acdfa79acb15775f2d90a8981e193d1f5b34963fc6a8b682b36d8c3c1199eed15c09be830",
+    "size": 25624576,
+    "type": 1,
+    "referring_url": "https://tel.red/linux/sky-latest-x86_64.AppImage",
+    "id": "sky-latest",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sky-latest/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:27:08 GMT'"
+  }
+}

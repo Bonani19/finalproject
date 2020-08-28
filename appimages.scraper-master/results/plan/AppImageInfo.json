@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "69b21763b0bf6acf3874e77b83aad27016e98afa284d1bf8bdc3589a2478030948c82101ceda1b5f4ba792af5f931b37a32e193d5de842e8db5be307198f4269",
+    "size": 108612680,
+    "type": 2,
+    "referring_url": "https://github.com/blupi-games/planetblupi-dev/releases/download/v1.13.0/planetblupi.AppImage",
+    "id": "plan",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/plan/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:51:40 GMT'"
+  }
+}

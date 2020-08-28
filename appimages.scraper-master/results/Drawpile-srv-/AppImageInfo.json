@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "061301eb7d79b13d3d39a94622304e393e8d436ec0a75df219a04b8ab4c0242055066be447aba5a7e273c84365f478e81248a490ffcab800c4cf86d408074d55",
+    "size": 12386304,
+    "type": 1,
+    "referring_url": "https://drawpile.net/files/appimage/Drawpile-srv-1.0.6-1.AppImage",
+    "id": "Drawpile-srv-",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Drawpile-srv-/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:39:56 GMT'"
+  }
+}

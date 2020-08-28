@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "133f9e1d1ac68ad0092701375658e947c2b9b27be25ac7798ea16866a6df3b7a483ba0a4c133dccf05ab4f07f27e7b40f8d3b5f3362844da5c59a9adee34c230",
+    "size": 54358100,
+    "type": 2,
+    "referring_url": "https://github.com/bunqCommunity/bunqDesktop/releases/download/0.8.10/bunqdesktop-0.8.10-i386.AppImage",
+    "id": "bunqdesktop-0.8.10",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/bunqdesktop-0.8.10/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:12:44 GMT'"
+  }
+}

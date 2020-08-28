@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "2f5970d962f73a75f363b21cd06f41ddd285ae12263feb8acca97f298e543b8342068fcd803ea9f79e1c447202b310b6a2ee1fb6980f4813ee28e5e60011a78d",
+    "size": 32991064,
+    "type": 2,
+    "referring_url": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
+    "id": "ReferenceOrganiser.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ReferenceOrganiser.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 03:42:44 GMT'"
+  }
+}

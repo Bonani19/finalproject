@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "f705f528a4488343b4b371ce6b6537e3a7c095fdda50f84f99747d91de26e7d59ce877cdb673a5e9fc6feb3b09a35b9c1610de14cdda62d1b5aa979618465244",
+    "size": 45500664,
+    "type": 2,
+    "referring_url": "http://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
+    "id": "tubcloud.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/tubcloud.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:47:10 GMT'"
+  }
+}

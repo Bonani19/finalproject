@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "432d2ff55555e51ca2224be3ecfa2dd5a69dfcf6e013c26932389ff1bf468e02f9014423a525616cb24162c74f3c0e07303587acefa96387276b1bdbb5608cf0",
+    "size": 64533057,
+    "type": 2,
+    "referring_url": "https://github.com/CityOfZion/neon-wallet/releases/download/0.1.3/Neon-0.1.3-x86_64.Linux.AppImage",
+    "id": "neon.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/neon.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 02:24:16 GMT'"
+  }
+}

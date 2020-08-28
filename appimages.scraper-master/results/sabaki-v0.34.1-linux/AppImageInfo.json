@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "a21995af0cd48b8d7fed78e9cbcdfeb8840c778393b003992911b6035d502499ebee453a48f94e10ae0148298b6a449fab7afd25c757699cc764f73ed87a312f",
+    "size": 43350877,
+    "type": 2,
+    "referring_url": "https://github.com/SabakiHQ/Sabaki/releases/download/v0.34.1/sabaki-v0.34.1-linux-ia32.AppImage",
+    "id": "sabaki-v0.34.1-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sabaki-v0.34.1-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:18:13 GMT'"
+  }
+}

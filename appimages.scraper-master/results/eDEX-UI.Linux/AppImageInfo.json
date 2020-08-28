@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "313d65d0890c2f8ec96b7a808381b61ecac95fb7daa8f1dbe7ddad63d4ac2bd1f16df2549ffb50e329cfe3910586a68a0194eb060ea01a712a4b150b1d2614fc",
+    "size": 39156654,
+    "type": 2,
+    "referring_url": "https://github.com/GitSquared/edex-ui/releases/download/v1.0.0-rc2/eDEX-UI.Linux.x86_64.AppImage",
+    "id": "eDEX-UI.Linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/eDEX-UI.Linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:42:54 GMT'"
+  }
+}

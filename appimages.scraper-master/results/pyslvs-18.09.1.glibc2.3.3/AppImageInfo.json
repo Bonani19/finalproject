@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "6d08bb0b1066a25c57ab50e5e31fcd836ce0454d743337b51fa7176858b6177d3bd7fd784ccba81fc01407962f4a75a98b3501d318319ce38f064ef265ae3d86",
+    "size": 186793352,
+    "type": 2,
+    "referring_url": "https://github.com/KmolYuan/Pyslvs-PyQt5/releases/download/v18.09.1/pyslvs-18.09.1.glibc2.3.3-x86_64.AppImage",
+    "id": "pyslvs-18.09.1.glibc2.3.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/pyslvs-18.09.1.glibc2.3.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:59:06 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86_64",
+    "sha512checksum": "6b9283b6ca508ef4cf7cb663829203712d17ca2871f585b4b14229a2aa36f21a715eea6a94d712ce8fadd121f8c415ad28c5b544f13322a693bc02dc07d8f2b8",
+    "size": 85312254,
+    "type": 2,
+    "referring_url": "https://github.com/meetalva/alva/releases/download/v1.0.0-alpha.66/alva-1.0.0-alpha.66-canary.AppImage",
+    "id": "alva-1.0.0-alpha.66",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/alva-1.0.0-alpha.66/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Fri, 27 Mar 2020 12:13:08 GMT'"
+  }
+}

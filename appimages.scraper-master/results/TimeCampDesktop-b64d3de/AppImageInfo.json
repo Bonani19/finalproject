@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "7c6f63358774ee2927fdd5d7349d05ef5dda3ae09d30ef41fe0d5eb4433599f1dbda00519085f2e358121cb2a0fae72f1640bc5e65e9c0ee3ada2cbcff8e37d1",
+    "size": 88677768,
+    "type": 2,
+    "referring_url": "https://github.com/timecamp/timecamp-v2.1-desktop-app/releases/download/2.0.136/TimeCampDesktop-b64d3de-x86_64.AppImage",
+    "id": "TimeCampDesktop-b64d3de",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/TimeCampDesktop-b64d3de/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:51:42 GMT'"
+  }
+}

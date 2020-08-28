@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a9c28110ae70816a9b80977d69a5621c6fd89ec63606c3e7470c60199dc94a374f96f1f451d5b9fc78d638ef5eac4878d3abd9050a2f31e06748732f264a3da7",
+    "size": 49640202,
+    "type": 2,
+    "referring_url": "https://github.com/mccxiv/tc/releases/download/15.2.0/tc-linux-15.2.0.AppImage",
+    "id": "tc-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/tc-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:48:49 GMT'"
+  }
+}

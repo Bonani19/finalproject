@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "c5d55c2a05f5310a7da71bb30da8cfc078b15fec90459ed99ce92c4213bebc90b16dc0f2fe2495baa038a121697d8df7e5b8a4270c5ba0f8e2a5c2e3d2159adb",
+    "size": 1920392,
+    "type": 2,
+    "referring_url": "https://github.com/AppImage/AppImageKit/releases/download/11/appimagetool-x86_64.AppImage",
+    "id": "appimagetool.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/appimagetool.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:45:23 GMT'"
+  }
+}

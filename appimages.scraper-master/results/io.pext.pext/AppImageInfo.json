@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "2553a25907caf40fbe3bf78cd7cae0ff7a7e9245295753c57bb302fe31744722495ee2f910432a496d4f668d5b63052f0a40f457aa1bb750b073431647c24940",
+    "size": 117808520,
+    "type": 2,
+    "referring_url": "https://github.com/Pext/Pext/releases/download/v0.20/Pext-0.20-x86_64.AppImage",
+    "id": "io.pext.pext",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/io.pext.pext/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:44:34 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "3e269d8a1229d02ab13b7ca1521d0b42534c9b44427a96fcffaaa6fa081a08d415180a54bf79e8638642fdcd4e8737f0c7f77582cc9df4ba26b8e18b59730120",
+    "size": 60846015,
+    "type": 2,
+    "referring_url": "https://github.com/standardnotes/desktop/releases/download/v2.3.7/standard-notes-2.3.7-x86_64.AppImage",
+    "id": "standard-notes-2.3.7",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/standard-notes-2.3.7/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:31:48 GMT'"
+  }
+}

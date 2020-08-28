@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "edefb636662414712264350681611ae3a6f35174784f5b5b060e0d360b65c5eb1283b03d89ab83de9f0eab567672e40166bbece5f230dab014bee63c0bdd13d1",
+    "size": 25238360,
+    "type": 2,
+    "referring_url": "https://download.nextcloud.com/desktop/releases/Linux/Nextcloud-2.3.2-x86_64.AppImage",
+    "id": "nextcloud.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/nextcloud.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 02:26:07 GMT'"
+  }
+}

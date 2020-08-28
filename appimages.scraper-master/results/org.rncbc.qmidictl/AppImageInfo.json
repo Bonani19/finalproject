@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "3c467937e06c6792a84c47c92aacc50ff5e1406e85299665eb38f3b03bc8b42cb0a06f704888b8deb26e78b83033e8b3cb6bf74d33d093394f3402967cf2c454",
+    "size": 11637976,
+    "type": 2,
+    "referring_url": "http://ftp1.nluug.nl/os/Linux/distr/opensuse/repositories/home:/rncbc/AppImage/qmidictl-1534530581.e431110-Build1.7.glibc2.14-x86_64.AppImage",
+    "id": "org.rncbc.qmidictl",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.qmidictl/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:02 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "d0dcef035631ddbdf2bca5654404165ae99d07b63ec971207b85ad41723f8997038844965fc0819dc6775cdaaf7983944f7cbca82dd77b6348b97da0fcbf5bf4",
+    "size": 25646936,
+    "type": 2,
+    "referring_url": "https://github.com/neuro-sys/tumblr-downloader-client/releases/download/v1.1/Tumblr_Downloader_GUI-git.e43fe65-x86_64.AppImage",
+    "id": "tumblr-downloader-client.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/tumblr-downloader-client.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:47:36 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "76c53b0d800afb4aebf42a213a777cf2eabf827f69c52ec40e15eb8bfed589a122eb865085d0ee56a8d43ab6ba5852f585e6d6961f6e73f4b90e85b22f4a1d46",
+    "size": 13198552,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qsynth-latest-x86_64.AppImage",
+    "id": "org.rncbc.qsynth",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.qsynth/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+  }
+}

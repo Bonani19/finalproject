@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "6a9f05e347272cc74e7503dd97db0d0918909ed416544887825f973e6dde4d25d49c3ddeb195b7c77c590394e06bc3d81eb5863874aecdb8ede6f2d098a94384",
+    "size": 175981101,
+    "type": 2,
+    "referring_url": "https://github.com/OpenNewsLabs/autoEdit_2/releases/download/continuous/autoEdit2-1.0.11-x86_64.AppImage",
+    "id": "autoedit2.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/autoedit2.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 02 Aug 2018 19:56:07 GMT'"
+  }
+}

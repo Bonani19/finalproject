@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "3c15c772f323dc8d6a71176d5e246d71ad345d233fb10e29a5425042ba5774023424eaba1aa410a7c8132dd65f34a3d6593f5a2a37bbe32f04d7f810728bcbce",
+    "size": 77867615,
+    "type": 2,
+    "referring_url": "https://github.com/icewolfz/jiMUD/releases/download/v0.5.2/jimud-0.5.2-x86_64.AppImage",
+    "id": "jimud-0.5.2",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/jimud-0.5.2/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 01:26:28 GMT'"
+  }
+}

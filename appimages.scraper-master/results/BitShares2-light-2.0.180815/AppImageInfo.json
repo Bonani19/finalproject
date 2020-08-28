@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "9586f340b1df54bdfa33e8aa8ea02937fab10e62875c03894ec76659606f8e0ed94c349b17b19332cc73bce77e805a57388cbd3a78498cb9e248cb83b97f1b0d",
+    "size": 57492668,
+    "type": 2,
+    "referring_url": "https://github.com/bitshares/bitshares-ui/releases/download/2.0.180815/BitShares2-light-2.0.180815-x86_64.AppImage",
+    "id": "BitShares2-light-2.0.180815",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/BitShares2-light-2.0.180815/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:03:12 GMT'"
+  }
+}

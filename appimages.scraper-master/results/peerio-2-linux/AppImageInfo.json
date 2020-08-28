@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "8d2f8c54f2497731b818878575f8a4f0f7c415e719062d279440d5d0b89c0a526fe6d88cf3ee76eda4013b65e4393b365fcd09ca10303eaccfe07ac8d29817ee",
+    "size": 68186700,
+    "type": 2,
+    "referring_url": "https://github.com/PeerioTechnologies/peerio-desktop/releases/download/v3.7.1/peerio-2-linux-x86_64.AppImage",
+    "id": "peerio-2-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/peerio-2-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:42:43 GMT'"
+  }
+}

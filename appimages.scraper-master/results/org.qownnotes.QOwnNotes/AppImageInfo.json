@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "9ff771fcb7aaccb7f4e0898503d075cd4be62f12ab16dfb5bee41d4b20a73ac644d1997ece63d53f5ef0a2d74186ac842f7ad427b44977a8ae9e8e80b76e66e4",
+    "size": 21808344,
+    "type": 2,
+    "referring_url": "http://ftp2.nluug.nl/os/Linux/distr/opensuse/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-1533662289.b6de145a-Build1.2.glibc2.14-x86_64.AppImage",
+    "id": "org.qownnotes.QOwnNotes",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.qownnotes.QOwnNotes/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Fri, 10 Aug 2018 09:51:35 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "d3bc2082a50bbeeea6d6e7dd0559a2968251c7791b73cae3a8dad0549e811032649867460c7347d080e46a9d6bd8849320b902b6c6cb125eeca21b94d05daf53",
+    "size": 41604288,
+    "type": 2,
+    "referring_url": "https://github.com/SabakiHQ/Sabaki/releases/download/v0.35.0/sabaki-v0.35.0-linux-x64.AppImage",
+    "id": "sabaki-v0.35.0-li",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sabaki-v0.35.0-li/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:18:13 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "6b07d1d9aab7e69743c78728e8973d7ad2989cff4cd1013376000380b39318026d70b656fbef504fd20965a6297477eca28799353dc13a1353946364667bf0bc",
+    "size": 423128,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/ttygif-1522327236.9973273-Build7.38.glibc2.7-x86_64.AppImage",
+    "id": "ttygif-1522327236.9973273-Build7.38.glibc2.7",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ttygif-1522327236.9973273-Build7.38.glibc2.7/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+  }
+}

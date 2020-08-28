@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "dc1e36f2b24244eacc02e189ac7027d9c24a61c7ba17b76f7ba7b4b0a29723d74e21208dcfbcdbafdcc33250c9b2cb34911519e39c8fbadfccc89fc2ec7d40e7",
+    "size": 158859264,
+    "type": 1,
+    "referring_url": "https://github.com/OpenShot/openshot-qt/releases/download/v2.4.3/OpenShot-v2.4.3-x86_64.AppImage",
+    "id": "OpenShot-v2.4.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/OpenShot-v2.4.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:33:36 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "434bd4423b42b0c11d4ee5eedba009e5ed37b591099bde768e0a4898fd2b166cad3cacff8f75f2493742d05c12fd0d31077f770ee1f05afa97765daf03c5db2a",
+    "size": 13288664,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/samplv1-latest-x86_64.AppImage",
+    "id": "org.rncbc.samplv1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.samplv1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "c0c48d272192eaef70f2a1750c2fd9546f288487362596a18996e3fbed132c70fbef93c163dc2b7a990f414825916d45cf6079a33d87e5a1cd1a27a3d2f44d09",
+    "size": 60413872,
+    "type": 2,
+    "referring_url": "https://github.com/patrikx3/onenote/releases/download/2018.9.27-0/p3x-onenote-2018.9.27-0-i386.AppImage",
+    "id": "p3x-onenote-2018.9.27-0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/p3x-onenote-2018.9.27-0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:30:22 GMT'"
+  }
+}

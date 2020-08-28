@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "64a0cd9a4371881fcc8abdc1f454d1d71c9d26e0cbab2a3bebc1ba75655efd43bd06f0d66c2dba0abe974fd825dacc99dff64d92ea77ac6f4c676e5e0ab6d238",
+    "size": 56416184,
+    "type": 2,
+    "referring_url": "https://github.com/Xzandro/sw-exporter/releases/download/0.0.23/Summoners.War.Exporter-0.0.23_1-linux.AppImage",
+    "id": "Summoners.War.Exporter-0.0.23_",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Summoners.War.Exporter-0.0.23_/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:45:53 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "c39eb6682b54f190efd0711c91994e216dca65a5213a30751be128800211a015497da3586f96abefdff0de5a312ee763d1c962c559984b3754906880f2c2bbf2",
+    "size": 105269249,
+    "type": 2,
+    "referring_url": "https://github.com/plotly/falcon/releases/download/v2.8.0/falcon-sql-client-2.8.0-x86_64.AppImage",
+    "id": "falcon-sql-client-2.8.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/falcon-sql-client-2.8.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:49:30 GMT'"
+  }
+}

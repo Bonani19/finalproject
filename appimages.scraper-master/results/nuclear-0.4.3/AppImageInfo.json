@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "0be89b611174ab1f80c5fa3172d8fa60fd33cc051a46e7ca7d0aae9561ae8a5409a0e072372f376792d09b860bb39da7c81c3d6031559279f28cee06250d844c",
+    "size": 65336413,
+    "type": 2,
+    "referring_url": "https://github.com/nukeop/nuclear/releases/download/v0.4.3/nuclear-0.4.3-x86_64.AppImage",
+    "id": "nuclear-0.4.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/nuclear-0.4.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:29:24 GMT'"
+  }
+}

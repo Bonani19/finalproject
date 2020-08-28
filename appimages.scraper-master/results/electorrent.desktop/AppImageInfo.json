@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "6a8a84ec0b1aeaa6da70059fa031b78675972620a0562b826b6cae87830233140d3fffde9ff63a76f99953e201f7d4f20308d326c0eaba7a01baacafb77a9f34",
+    "size": 53411840,
+    "type": 1,
+    "referring_url": "https://github.com/tympanix/Electorrent/releases/download/v2.1.6/electorrent-2.1.6-x86_64.AppImage",
+    "id": "electorrent.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/electorrent.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 00:10:24 GMT'"
+  }
+}

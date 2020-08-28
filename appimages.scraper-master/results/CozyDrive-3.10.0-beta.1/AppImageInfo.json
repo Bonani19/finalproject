@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "7b486170d18545b427d9ce4a83539bda6b6b7f46e7591c2fa6c2ba97d8582315796316f518dae692b78f2575e0aecfb982e80ace550406e8c9ec856b29eb0a29",
+    "size": 63963951,
+    "type": 2,
+    "referring_url": "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.10.0-beta.1/CozyDrive-3.10.0-beta.1-i386.AppImage",
+    "id": "CozyDrive-3.10.0-beta.1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/CozyDrive-3.10.0-beta.1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:21:39 GMT'"
+  }
+}

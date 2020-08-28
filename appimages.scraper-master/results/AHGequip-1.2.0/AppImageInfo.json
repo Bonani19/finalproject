@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "8ddb17b106685491d4e26bfbcc9c203c3b9d9b36fe2b150ede11ec0f00808514aa93b6cf188345c702385c480d670f553aeefc1a9088e84eab06dfd6f7b4070a",
+    "size": 56229300,
+    "type": 2,
+    "referring_url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.2.0/AHGequip-1.2.0-x86_64.AppImage",
+    "id": "AHGequip-1.2.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/AHGequip-1.2.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:37:31 GMT'"
+  }
+}

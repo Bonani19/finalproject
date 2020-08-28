@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "0a8203b4f8e8d6b61b948df159321fb4a73f4471989e35f30178daddd00cadb5e0049fadc5f814633c2f3415300e0a84a96d3f128a91d73ed6794579ea60a3f3",
+    "size": 68174649,
+    "type": 2,
+    "referring_url": "https://github.com/MyCryptoHQ/MyCrypto/releases/download/1.4.0/linux-x86-64_1.4.0_MyCrypto.AppImage",
+    "id": "linux-x86-64_1.4.0_M",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/linux-x86-64_1.4.0_M/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:19:22 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a42034aea8fbdde95a32b9d05469468facd9b0439d564ee7d4eccd771083b3a533fc7210d357989fd8e4911d6385de465c4185bc6fcaaf50a00018b6ca728d2d",
+    "size": 53346304,
+    "type": 1,
+    "referring_url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/vtest/Aidos-Testnet-1.2.7-x86_64.AppImage",
+    "id": "Aidos-Testnet-1.2.7",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Aidos-Testnet-1.2.7/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:39:18 GMT'"
+  }
+}

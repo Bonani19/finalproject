@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "2a928f3b7fbf6d6eca3e4f3a77a3d571dc35bdca5a3f13aaa83e6b8dcac61ab1cef97cb7fa6560ff30d2e55ea32209d96dc638f395744fe21c0e5d974c3fb012",
+    "size": 54799192,
+    "type": 2,
+    "referring_url": "https://github.com/ShareXin/ShareXin/releases/download/0.6.4/sharexin-0.6.4-x86_64.AppImage",
+    "id": "sharexin-0.6.4",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sharexin-0.6.4/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:23:12 GMT'"
+  }
+}

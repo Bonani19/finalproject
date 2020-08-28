@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "4f877e7b199b6760b1e745d2152ef37f4047a71428e9f6efb8800bbfb180ccf2a31ff3749f34c16446bd4898ccb19a0e335b5da4994e8d80c88c8185d7f520f9",
+    "size": 62586880,
+    "type": 1,
+    "referring_url": "https://github.com/mavlink/qgroundcontrol/releases/download/v3.2.7/QGroundControl.AppImage",
+    "id": "qgroundcontrol.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/qgroundcontrol.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 03:23:15 GMT'"
+  }
+}

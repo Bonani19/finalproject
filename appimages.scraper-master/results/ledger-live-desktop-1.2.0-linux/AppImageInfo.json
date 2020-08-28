@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "e4c14249e6767011bec97d0cf56dc3138af9b99e68e61d46d1b8f8a0aa017ea569385832ed422d3db7259822849084a318bbb6cb5fd2c0035b94a14bcfd46dc5",
+    "size": 79569133,
+    "type": 2,
+    "referring_url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v1.2.0/ledger-live-desktop-1.2.0-linux-x86_64.AppImage",
+    "id": "ledger-live-desktop-1.2.0-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ledger-live-desktop-1.2.0-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 01:49:27 GMT'"
+  }
+}

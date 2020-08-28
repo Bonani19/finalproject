@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "3170094e8d042444a9ffaff35cb64ed83c63783dcf6a263fb85065b1c74a6e1d6e57149aa3353cc2df26a4d31e4b03e02f25e38ebb9d835f463db31319f51362",
+    "size": 36038872,
+    "type": 2,
+    "referring_url": "https://github.com/lettier/movie-monad/releases/download/0.0.7.0/movie-monad-0.0.7.0-x86_64.AppImage",
+    "id": "com.lettier.movie-monad.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/com.lettier.movie-monad.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:16:14 GMT'"
+  }
+}

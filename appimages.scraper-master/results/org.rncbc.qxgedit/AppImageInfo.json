@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "8c0182ff4f9db1ddb262f0842eac59f718dcdfec27045a75a53a19b8b994f2b0228220bd456174cfd0cf09d52f4fb0722ef85c927b4bc45bc42366a145ad3188",
+    "size": 11855064,
+    "type": 2,
+    "referring_url": "http://ftp1.nluug.nl/os/Linux/distr/opensuse/repositories/home:/rncbc/AppImage/qxgedit-1534531868.a4ac028-Build1.7.glibc2.14-x86_64.AppImage",
+    "id": "org.rncbc.qxgedit",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.qxgedit/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:07:01 GMT'"
+  }
+}

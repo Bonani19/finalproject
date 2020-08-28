@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "d4052e686271ead49888fb235de5d458932cde259d01f8567c5fb8fcd7a7da4080e49939acbdd2ac03e1993de6e80b931177a37a9c91f40423a27314de558792",
+    "size": 71428349,
+    "type": 2,
+    "referring_url": "https://github.com/MayGo/tockler/releases/download/v3.3.12/tockler-3.3.12-x86_64.AppImage",
+    "id": "tockler.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/tockler.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:43:29 GMT'"
+  }
+}

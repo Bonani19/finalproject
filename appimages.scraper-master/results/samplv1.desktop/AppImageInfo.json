@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a84e4d335b34a57722fce7838032505bdd5f12a9047faaf1854b6cc0b50cb7844e7c765e34924f668014c3a4c638a8a40c8afd7a87c39419dd1356515b55ebee",
+    "size": 13087960,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/samplv1-1531815235.f98e37b-Build1.1.glibc2.2.5-x86_64.AppImage",
+    "id": "samplv1.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/samplv1.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+  }
+}

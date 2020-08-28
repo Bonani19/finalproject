@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "cc13bcf3d68dba485b1a6d7a8385f395c376590d2d4da55c73366b6d09c8bed79d4a4b9fb6fa066857fee1492f8779baf93514a456f9910be6d1a8658973fa61",
+    "size": 21142864,
+    "type": 2,
+    "referring_url": "https://mirror.kumi.systems/kde/ftp/stable/atcore/1.0.0/AtCore_Test_Client-1.0.0-x86_64.AppImage",
+    "id": "AtCoreTest.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/AtCoreTest.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Tue, 17 Jul 2018 22:49:59 GMT'"
+  }
+}

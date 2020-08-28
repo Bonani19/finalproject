@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "ecd9a2cce9dba6804f15e9dcbdd5a6f6dc77fc05bc8a14031059e2edab355da3afd4af9d00e83f844655eef24216ef89fb4cc181b7f8936522afe00f69771810",
+    "size": 73201688,
+    "type": 2,
+    "referring_url": "http://mirror.kumi.systems/kde/ftp/stable/peruse/Peruse-1.2-x86_64.AppImage",
+    "id": "org.kde.okular.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.kde.okular.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:44:24 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "08e36d96861e4501695719a5f86b33cc06adedf4fbde3d9d00681173be99e33ae3fc2b9228a67dafb1aebb6532efbcc99b942cdc6fd90501cf518c43e7568c4f",
+    "size": 145054552,
+    "type": 2,
+    "referring_url": "https://github.com/FreeCAD/FreeCAD/releases/download/0.16/FreeCAD-0.16.6712.glibc2.17-x86_64.AppImage",
+    "id": "FreeCAD-0.16.6712.glibc2.17",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/FreeCAD-0.16.6712.glibc2.17/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:54:05 GMT'"
+  }
+}

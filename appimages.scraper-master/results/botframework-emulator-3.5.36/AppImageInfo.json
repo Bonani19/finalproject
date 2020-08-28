@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a8279fdcf5fd52d6b99e4c96097ebea78927f6a36ad9ca4d7199b5ed080a13aa4bb0d33dd2abacedf667bc267e17df3c903cf8857fda1b38fa82cbf71a7103aa",
+    "size": 61407232,
+    "type": 1,
+    "referring_url": "https://github.com/Microsoft/BotFramework-Emulator/releases/download/v3.5.36/botframework-emulator-3.5.36-x86_64.AppImage",
+    "id": "botframework-emulator-3.5.36",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/botframework-emulator-3.5.36/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:08:28 GMT'"
+  }
+}

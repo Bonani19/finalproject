@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "3bcc8e6f5ff236b7ef528d4241466c5f04cf122ad55bdc8a10250d425ebcd09657eaa22b681e735adc1721a6b2d9f977360114fe9d091717f57948f0955c2375",
+    "size": 13087960,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qjackctl-1540405539.6fdce07-Build1.1.glibc2.14-x86_64.AppImage",
+    "id": "org.rncbc.qjackctl",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.qjackctl/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:07:09 GMT'"
+  }
+}

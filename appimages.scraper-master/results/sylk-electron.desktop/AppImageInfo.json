@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "dd8f1dd4f847b68d5404bf5315874b39ac1911b24ddc909b9c8eaf266cdf7ad96a034c17ae5e02f8e114300dec7edb6594432e4ea1ef1b5a490d5896f7d21f3d",
+    "size": 49414144,
+    "type": 1,
+    "referring_url": "http://download.ag-projects.com/Sylk/sylk-electron-1.2.0-x86_64.AppImage",
+    "id": "sylk-electron.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/sylk-electron.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 04:35:54 GMT'"
+  }
+}

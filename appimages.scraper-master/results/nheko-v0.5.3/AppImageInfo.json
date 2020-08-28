@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "b46ecd266c47e1044b2c1020edd9b9a206a67a5494b2b7be475ebe432ccf8c5b290b5d064d88978faa07b124799107252d6ebf3e13f2adbf1d26fb1acd4608c1",
+    "size": 65230920,
+    "type": 2,
+    "referring_url": "https://github.com/mujx/nheko/releases/download/v0.5.3/nheko-v0.5.3-x86_64.AppImage",
+    "id": "nheko-v0.5.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/nheko-v0.5.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:26:55 GMT'"
+  }
+}

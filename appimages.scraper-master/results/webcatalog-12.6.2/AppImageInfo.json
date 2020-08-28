@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "877239f800021ee8e8bdfcbe8a5f3e4e62af0aff7b5b8fe193d05653ab537d68640144a0c9bf4a72af8090a6dba4413ba9162127eec1144d9c9d2388192c9bab",
+    "size": 57598421,
+    "type": 2,
+    "referring_url": "https://github.com/webcatalog/webcatalog/releases/download/v12.6.2/webcatalog-12.6.2-x86_64.AppImage",
+    "id": "webcatalog-12.6.2",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/webcatalog-12.6.2/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 04:05:19 GMT'"
+  }
+}

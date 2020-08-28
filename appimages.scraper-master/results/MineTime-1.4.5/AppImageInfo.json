@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "d3dec0d49594cb4090e6dee18745348fa6d1652c2958c914c0bda933c5bf93bf2dc68009c9f1701a22d536587f27039ac67d74e88bc3d6d05975e0bc2ce55c65",
+    "size": 88903933,
+    "type": 2,
+    "referring_url": "https://github.com/marcoancona/MineTime/releases/download/v1.4.5/MineTime-1.4.5-x86_64.AppImage",
+    "id": "MineTime-1.4.5",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/MineTime-1.4.5/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:13:04 GMT'"
+  }
+}

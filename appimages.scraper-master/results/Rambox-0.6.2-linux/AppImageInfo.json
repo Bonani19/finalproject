@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "096fcd29d876e19c26bf351875a103e212cf81a98d1954ea1e91cdba30961af5370c20aef3ee0a72c975f0cdeb01bd420531ce3b556da63b3fdfa91c62d3e476",
+    "size": 60014142,
+    "type": 2,
+    "referring_url": "https://github.com/ramboxapp/community-edition/releases/download/0.6.2/Rambox-0.6.2-linux-x86_64.AppImage",
+    "id": "Rambox-0.6.2-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Rambox-0.6.2-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:07:28 GMT'"
+  }
+}

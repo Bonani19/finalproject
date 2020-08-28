@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "c0159946162bd01114aee70aeaca594ca0fd087e44190a64e8c1a6d86643d7597dd4a47328ef9e4d7f7ce11d929a7c2f568053207b7f1a22c7cab23b557ecc1d",
+    "size": 56339614,
+    "type": 2,
+    "referring_url": "https://github.com/jmerle/ai-bot-workspace/releases/download/v2.4.3/ai-bot-workspace-2.4.3-x86_64.AppImage",
+    "id": "ai-bot-workspace-2.4.3",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/ai-bot-workspace-2.4.3/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:38:36 GMT'"
+  }
+}

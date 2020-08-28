@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "1cb6bb6f57f22ccca173aa3ef684b8a7c836737fe1e045733dd9beea1a7c7a0a7cd1416f5343e8c5fa458d3849f6550962b62ab9bd56d8375efb7e5e80f68127",
+    "size": 70559844,
+    "type": 2,
+    "referring_url": "https://github.com/tangb/CleepDesktop/releases/download/v0.0.11/CleepDesktop-0.0.11-linux-x86_64.AppImage",
+    "id": "CleepDesktop-0.0.11-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/CleepDesktop-0.0.11-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:19:18 GMT'"
+  }
+}

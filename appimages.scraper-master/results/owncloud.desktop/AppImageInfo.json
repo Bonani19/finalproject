@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "4477baef0d7d4b3c544d8eef41c4b6766afa06fe1b0a6d99c4f3fd146a254eaa21381d33ed5d34d69f643ccf9341d10ba3e78f12c32eae0c1a0ea7c0f62f5ace",
+    "size": 538629272,
+    "type": 2,
+    "referring_url": "http://ftp.gwdg.de/pub/opensuse/repositories/home:/ocfreitag/AppImage/owncloud-client-2.3.3-6.1.Build6.3.glibc2.17-x86_64.AppImage",
+    "id": "owncloud.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/owncloud.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 02:38:52 GMT'"
+  }
+}

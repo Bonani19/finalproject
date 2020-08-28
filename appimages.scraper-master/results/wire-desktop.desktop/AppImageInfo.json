@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "Intel 80386",
+    "sha512checksum": "4fc9d01a725a7b1ecf4a5a685a568babd0df5d32f9a6334b615c392129c3f6151897b5ffeec4889d739e853ac9b3d44d0ec17cbefc76944d40824eff62733a50",
+    "size": 104464384,
+    "type": 1,
+    "referring_url": "https://github.com/wireapp/wire-desktop/releases/download/release%2F2.15.2751/wire-2.15.2751-i386.AppImage",
+    "id": "wire-desktop.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/wire-desktop.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 05:10:16 GMT'"
+  }
+}

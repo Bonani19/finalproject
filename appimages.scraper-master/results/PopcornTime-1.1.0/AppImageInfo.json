@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "ad8dfd0bf776f39b8bc41d6af5b8c01953d8e2261a84d51cf4975ec67ee8f6d55718af06f1f776997575bf428ef028617e4c5a41aba930c69f06b998708e38fc",
+    "size": 55110841,
+    "type": 2,
+    "referring_url": "https://github.com/amilajack/popcorn-time-desktop/releases/download/v1.1.0/PopcornTime-1.1.0-x86_64.AppImage",
+    "id": "PopcornTime-1.1.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/PopcornTime-1.1.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:55:30 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "7fe1d4970eaffc189ddddd1e7ff3429b1c0290999eeaf736853f72537fd05e28a1588ffb4065844d8191fe9b5e719961e0f016643b56df3487cfdf433324dc64",
+    "size": 12268760,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage",
+    "id": "org.rncbc.qmidinet",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/org.rncbc.qmidinet/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+  }
+}

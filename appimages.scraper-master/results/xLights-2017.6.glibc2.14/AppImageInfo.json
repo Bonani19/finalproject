@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "054cd26f58e0da258a226b427aa1103329f14bf169d5691d004a93eac46387a148de193df6d774ee071ada8e0890ad83450cac844b6a62542ac68c19fcf5e06f",
+    "size": 46381272,
+    "type": 2,
+    "referring_url": "https://www.adebenham.com/wp-content/uploads/xlights/xLights-2017.6.glibc2.14-x86_64.AppImage",
+    "id": "xLights-2017.6.glibc2.14",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/xLights-2017.6.glibc2.14/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 04:14:19 GMT'"
+  }
+}

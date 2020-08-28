@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "41efb4d355233ac9e43925f1a38f259725f9a0833f0c31a716617081a14b344066c65efec9a9e202a215f5b96cba133da5b5b29c12dadd9ad5c220b12e9f0f9f",
+    "size": 5285080,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/aria2-1.24.0-3.2.Build13.6055.glibc2.17-x86_64.AppImage",
+    "id": "aria2-1.24.0-3.2.Build13.6055.glibc2.17",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/aria2-1.24.0-3.2.Build13.6055.glibc2.17/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+  }
+}

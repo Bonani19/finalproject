@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "fa6b088a9e0ffb61dea688806749dd045976c52987aa18cd00898903ba20790b049650b47e820a2016e84f8908c5e7d78e12ada13e4bf44ba63d6f11aba2ae78",
+    "size": 81560584,
+    "type": 2,
+    "referring_url": "https://github.com/pathephone/pathephone-desktop/releases/download/v1.2.1/pathephone-desktop-1.2.1-x86_64.AppImage",
+    "id": "pathephone-desktop-1.2.1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/pathephone-desktop-1.2.1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:40:01 GMT'"
+  }
+}

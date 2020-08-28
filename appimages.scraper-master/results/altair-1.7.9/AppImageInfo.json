@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "50c5c442434e14b39ab6154dbd28dd42c66baa1fed987c2a0ac11ac5e2706858aa8379fbeaeff4a5dca5b0e4e7df0162813ab1ebf03c883e93f9333d4c367357",
+    "size": 113048343,
+    "type": 2,
+    "referring_url": "https://github.com/imolorhe/altair/releases/download/v1.7.9/altair-1.7.9-x86_64.AppImage",
+    "id": "altair-1.7.9",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/altair-1.7.9/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:40:59 GMT'"
+  }
+}

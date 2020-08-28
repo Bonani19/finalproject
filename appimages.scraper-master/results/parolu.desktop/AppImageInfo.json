@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "f3a4c9147f07a6d257b7ea6b97091e4bdccc259ccbb29eee600fe43772175eb7c64140a1cbb820f6f1a214ce76e2fd86214a6034cbf9a46fd6919adbcdcf9d44",
+    "size": 58275289,
+    "type": 2,
+    "referring_url": "https://download.parolu.io/desktop/parolu-latest-x86_64.AppImage",
+    "id": "parolu.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/parolu.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 02:45:23 GMT'"
+  }
+}

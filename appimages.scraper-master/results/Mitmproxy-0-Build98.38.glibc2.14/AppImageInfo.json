@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "faa22b5651d54dcd6b136360383fdb98dc2ae01ead0d7ef031c5f06b7be8c8546c4cfcc2329a47a835a4b117edc9040881912292a22e3c4c42aa2b27f3bed7df",
+    "size": 52143320,
+    "type": 2,
+    "referring_url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/Mitmproxy-0-Build98.38.glibc2.14-x86_64.AppImage",
+    "id": "Mitmproxy-0-Build98.38.glibc2.14",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Mitmproxy-0-Build98.38.glibc2.14/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+  }
+}

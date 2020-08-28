@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "f43052d18bfdd36d5cd672404febf9974e8864b437dc82d9e2a204de006c78f6369fb2e5487ceec61774d2954022c76a0f98e5baed9552cf8f7ae4b7442693b3",
+    "size": 55007985,
+    "type": 2,
+    "referring_url": "https://github.com/UltimateHackingKeyboard/agent/releases/download/v1.2.9/UHK.Agent-1.2.9-linux-x86_64.AppImage",
+    "id": "UHK.Agent-1.2.9-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/UHK.Agent-1.2.9-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:58:41 GMT'"
+  }
+}

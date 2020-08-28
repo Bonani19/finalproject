@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "499ef13d31cfa484795c685136681ed50df9791fd46ae8fe33d8b729715c40efb36c08af8096e073dc1e97c30c91e52f8754bc19d31466b04f28b0d0e170e4c2",
+    "size": 56226015,
+    "type": 2,
+    "referring_url": "https://github.com/bunqCommunity/bunqDesktop/releases/download/0.9.1/bunqDesktop-0.9.1-x86_64.AppImage",
+    "id": "bunqDesktop-0.9.1",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/bunqDesktop-0.9.1/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:12:44 GMT'"
+  }
+}

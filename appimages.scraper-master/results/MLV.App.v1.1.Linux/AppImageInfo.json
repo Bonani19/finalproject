@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "93e6a90556c0d16c4f52eae7814bc5d5c7bd26101647064195e54516077d3e5d57253867e5eaf861db83618bc958b11d45d945846e53baae0553a62e230f5b89",
+    "size": 69285816,
+    "type": 2,
+    "referring_url": "https://github.com/ilia3101/MLV-App/releases/download/QTv1.1/MLV.App.v1.1.Linux.x86_64.AppImage",
+    "id": "MLV.App.v1.1.Linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/MLV.App.v1.1.Linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:15:49 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "a5e6ddf176ea48afd7224ca98344ea7b26355b785b767c7f7627bf41eb59805741669eba97479093488464a0ea4b2ec759b3f8eea5bfb269907b359230bf3441",
+    "size": 100271812,
+    "type": 2,
+    "referring_url": "https://github.com/nashaofu/dingtalk/releases/download/v2.0.7/dingtalk-2.0.7-i386.AppImage",
+    "id": "dingtalk-2.0.7",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/dingtalk-2.0.7/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:34:03 GMT'"
+  }
+}

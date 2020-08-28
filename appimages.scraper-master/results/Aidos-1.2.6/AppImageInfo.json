@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "4cf33722234f0587e14ada8e4498dc2861b02fdaa50a9fcd2d1efe2baaadb1576f211067f473793cf754ccac6c42d202ea54bc452c66a39f60a139cbfd6093a9",
+    "size": 57344000,
+    "type": 1,
+    "referring_url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/v1.2.6/Aidos-1.2.6-x86_64.AppImage",
+    "id": "Aidos-1.2.6",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Aidos-1.2.6/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:39:18 GMT'"
+  }
+}

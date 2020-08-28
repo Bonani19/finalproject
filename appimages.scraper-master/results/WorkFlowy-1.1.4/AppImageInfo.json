@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "i386",
+    "sha512checksum": "b83d8bb83a562d5de15a925b3b1cf374b1ee12c9ab83ad0e4ce34062967a984d6267a4f62841ee3c90c591c63bb25ca9f4c513279e7bd4b2541ed79d99153401",
+    "size": 56595590,
+    "type": 2,
+    "referring_url": "https://github.com/workflowy/desktop/releases/download/v1.1.4/WorkFlowy-1.1.4-i386.AppImage",
+    "id": "WorkFlowy-1.1.4",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/WorkFlowy-1.1.4/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 04:10:46 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "f704a42d1dc1b54dd066faf60d2fab7128bd23dc04b70d502f48fa5c686e53411460aa6b139554d840a990d528cfb8758550a81cd21f86f68d6711c38ee20186",
+    "size": 34147720,
+    "type": 2,
+    "referring_url": "https://github.com/blindchimp/dwyco/releases/download/continuous/Dwyco_Phoo-1a97472-x86_64.AppImage",
+    "id": "Dwyco_Phoo-1a97472",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Dwyco_Phoo-1a97472/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:42:23 GMT'"
+  }
+}

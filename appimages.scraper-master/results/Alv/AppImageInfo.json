@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "1643092796e2956a22b771aedafde036849541434fe9593657a5c75c840a00555fbc4e644033ca320e668a33c855f3f76d9b33b727bff4b244f5c317da94223c",
+    "size": 92016401,
+    "type": 2,
+    "referring_url": "https://github.com/meetalva/alva/releases/download/v0.8.0/Alva-0.8.0.AppImage",
+    "id": "Alv",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Alv/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:41:54 GMT'"
+  }
+}

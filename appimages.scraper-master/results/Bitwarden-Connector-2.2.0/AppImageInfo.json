@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "53787c629f1b4986af98fe8923b01d906c0587cf5c78d711af9142412cfe5df583ba9cb7ff57978f31d563865ccfa44a9ca3ed1a4d1f02fef326d0c17e2b4e39",
+    "size": 53183718,
+    "type": 2,
+    "referring_url": "https://github.com/bitwarden/directory-connector/releases/download/v2.2.0/Bitwarden-Connector-2.2.0-x86_64.AppImage",
+    "id": "Bitwarden-Connector-2.2.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Bitwarden-Connector-2.2.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:03:51 GMT'"
+  }
+}

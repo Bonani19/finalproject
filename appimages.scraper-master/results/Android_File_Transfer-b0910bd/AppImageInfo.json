@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "2bf83dcad2fbcd53d3c1714b7874359d0aa5e47d65e10b32e1848a5830b0c51eb59121b046abbed791242500ce114331ec6259ad2cc89bd0a502b9d9355019d3",
+    "size": 20966792,
+    "type": 2,
+    "referring_url": "https://github.com/whoozle/android-file-transfer-linux/releases/download/continuous/Android_File_Transfer-b0910bd-x86_64.AppImage",
+    "id": "Android_File_Transfer-b0910bd",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Android_File_Transfer-b0910bd/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 24 Oct 2018 23:43:38 GMT'"
+  }
+}

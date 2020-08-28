@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "92d9a7af9c95d326b33284ffaa51de86d7f74a6b29f9c2ee54cda68eb9735490bfad92f864ae071fb267bb2d849a624bdb3e8c6c1b34abaf97e65b9d2a1acc94",
+    "size": 54393968,
+    "type": 2,
+    "referring_url": "https://github.com/matthieuy/feedseries/releases/download/v0.7.2/feedseries-0.7.2-x86_64.AppImage",
+    "id": "feedseries.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/feedseries.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 00:21:10 GMT'"
+  }
+}

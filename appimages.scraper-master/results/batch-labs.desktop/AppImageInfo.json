@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "5d29fb331b6bfb131105bf32a7f154927b7a07dd7a60a2c212efe90139ea479928c9d224e045ca4fe0ccb1ad748b786616447e6e83f43c8d2f192518cbbb029c",
+    "size": 111799710,
+    "type": 2,
+    "referring_url": "https://github.com/Azure/BatchExplorer/releases/download/v0.12.1/batch-labs-0.12.1-x86_64.AppImage",
+    "id": "batch-labs.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/batch-labs.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Tue, 17 Jul 2018 22:53:01 GMT'"
+  }
+}

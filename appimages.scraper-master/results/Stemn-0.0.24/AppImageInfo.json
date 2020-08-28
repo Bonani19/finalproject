@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "25fa4cd5cafcac7fb26c9460e25e5e0d22d3a99871b236c43e46a16b6c995de35c0e6ac12eb3037854fe2a231b2b4eb23826e98bb13df6f888bb34d72faba73f",
+    "size": 112787456,
+    "type": 1,
+    "referring_url": "https://github.com/stemn/stemn-desktop/releases/download/v0.0.24/Stemn-0.0.24-x86_64.AppImage",
+    "id": "Stemn-0.0.24",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/Stemn-0.0.24/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 03:36:24 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "0a0d0ae88797ff6fbc19a10a6ca8b28fe088a3076b9f767981dd64f65abeb1980db579acd61e319e99c1c0e0a4e9692f3f6dc9420978c502e6353f0ccb82e4f1",
+    "size": 90798152,
+    "type": 2,
+    "referring_url": "https://github.com/ColinDuquesnoy/MellowPlayer/releases/download/Continuous/MellowPlayer-x86_64.AppImage",
+    "id": "mellowplayer.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/mellowplayer.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Fri, 10 Aug 2018 08:30:03 GMT'"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "818714a3115bef8fa8c8b75204008a90eeb83349b889c39ce33b68f0f334f750697743675d1353836c816d02f6c3a886596965fadb7d66b8be29cbbedfb0adfe",
+    "size": 38897736,
+    "type": 2,
+    "referring_url": "https://github.com/emericg/WatchFlower/releases/download/v0.3/WatchFlower-0.3.0-linux64.AppImage",
+    "id": "WatchFlower-0.3.0-",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/WatchFlower-0.3.0-/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 04:05:07 GMT'"
+  }
+}

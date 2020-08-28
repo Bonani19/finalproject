@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86_64",
+    "sha512checksum": "2ceaaa5578b2cd8f39ba4e3d947eb08f324e166b74f7116ce651b7415eec446a7e0fdfb462afc6e244eb31f9fd87c02289c5bddf17ab4810979f55941d11f1c7",
+    "size": 58064896,
+    "type": 1,
+    "referring_url": "https://github.com/makinacorpus/accessimap-lecteur-der/releases/download/0.0.26/accessimap-lecteur-der-0.0.26-x86_64.AppImage",
+    "id": "accessimap-lecteur-der-0.0.26",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/accessimap-lecteur-der-0.0.26/AppImageInfo.json"
+  },
+  "release": {
+    "date": "Fri, 27 Mar 2020 06:31:22 GMT"
+  }
+}

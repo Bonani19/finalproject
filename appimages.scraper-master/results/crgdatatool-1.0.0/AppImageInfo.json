@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "93401d151f3280eabfd9c596ef6aed52a9727e36227afd968528aa504d945f69ca84a31f3180188cd183623199d537da71e18fbe14b24a6632f191f259c8ef62",
+    "size": 65394020,
+    "type": 2,
+    "referring_url": "https://github.com/AdamSmasherDerby/CRG-To-Statsbook/releases/download/v1.0.0/crgdatatool-1.0.0-x86_64.AppImage",
+    "id": "crgdatatool-1.0.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/crgdatatool-1.0.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 00:23:16 GMT'"
+  }
+}

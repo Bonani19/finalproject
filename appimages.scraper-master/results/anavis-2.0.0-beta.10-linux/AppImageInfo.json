@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86_64",
+    "sha512checksum": "26b0d75e83a90a67eafa187ea9434d00341f2ffeaf6dea0db72ca43d82298a8ee07aa1dcbcdead3383a5f72c0b44fc5669ef358d481ec3602de22c07fedbf35d",
+    "size": 63987577,
+    "type": 2,
+    "referring_url": "https://github.com/learningmedia/anavis/releases/download/v2.0.0-beta.10/anavis-2.0.0-beta.10-linux-x86_64.AppImage",
+    "id": "anavis-2.0.0-beta.10-linux",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/anavis-2.0.0-beta.10-linux/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Fri, 27 Mar 2020 08:22:48 GMT'"
+  }
+}

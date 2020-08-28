@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "a4f88c45fe2d6499e39d4d74ff4494213c31ac12f2c6fdd8b5f0121c1aa81eb9c33b2a6d7875a3905898eea2cf91ff10ae51b31077e5ceb7655e9f0e42a903ff",
+    "size": 9054456,
+    "type": 2,
+    "referring_url": "https://knapsu.eu/download/OpenXcom_1.0_x86-64.AppImage",
+    "id": "OpenXcom_1.0",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/OpenXcom_1.0/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Thu, 25 Oct 2018 02:35:30 GMT'"
+  }
+}

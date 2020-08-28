@@ -1,0 +1,14 @@
+{
+  "file": {
+    "version": "x86-64",
+    "sha512checksum": "f8710c9f4cbbfa70b4617bd848130c70169a7e993524ac46daf5367f71253a52da7f228aec7ee9c5f88bc3294ffc6b719ee9dfb19bd08b05ef8a6a73df420ea6",
+    "size": 13014232,
+    "type": 2,
+    "referring_url": "http://ftp.gwdg.de/pub/opensuse/repositories/home:/rncbc/AppImage/qsynth-1530542156.7eab798-Build1.4.glibc2.14-x86_64.AppImage",
+    "id": "qsynth.desktop",
+    "location": "/home/bonani/Desktop/binud/appimages.scraper-master/cache/results/qsynth.desktop/AppImageInfo.json"
+  },
+  "release": {
+    "date": "b'Wed, 18 Jul 2018 03:24:43 GMT'"
+  }
+}
